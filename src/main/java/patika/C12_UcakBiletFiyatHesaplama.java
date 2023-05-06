@@ -2,7 +2,7 @@ package patika;
 
 import java.util.Scanner;
 
-public class UcakBiletFiyatHesaplama {
+public class C12_UcakBiletFiyatHesaplama {
     public static void main(String[] args) {
         /*
         Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan programı yapın.
